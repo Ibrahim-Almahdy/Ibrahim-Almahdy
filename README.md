@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" />
 
 I am a MERN Full Stack Developer skilled in HTML, CSS, JavaScript, React, TypeScript, Next.js, Bootstrap, <br/> Node.js, MongoDB, and Express.js.
 I build full-stack web applications, continuously improve my skills, <br/> and strive to contribute to impactful digital solutions.
