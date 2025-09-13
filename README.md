@@ -8,8 +8,8 @@
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-I am a MERN Full Stack Developer skilled in HTML, CSS, JavaScript, React, Node.js, Express, Next.js, Bootstrap, and MongoDB.
-I have built dynamic web applications, designed responsive user interfaces, and developed scalable back-end systems. I am always eager to enhance my skills, explore new technologies, and contribute to building impactful digital solutions.
+I am a MERN Full Stack Developer skilled in HTML, CSS, JavaScript, React, TypeScript, Next.js, Bootstrap, <br/> Node.js, MongoDB, and Express.js.
+I build full-stack web applications, continuously improve my skills, and strive to contribute to impactful digital solutions.
 
 
 
@@ -24,9 +24,7 @@ I have built dynamic web applications, designed responsive user interfaces, and 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
