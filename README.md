@@ -3,18 +3,13 @@
 💼Software Engineer
 **MREN Full-Stack Developer
 
- 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ibrahimalmahdy&style=for-the-badge" alt="Profile Views"/>
-</p>
 
 ## 🚀 About Me
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-I am a Software Engineer skilled in React, Next.js, WordPress, PHP, and more. <br/>
-I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
+I am a MERN Full Stack Developer skilled in HTML, CSS, JavaScript, React, Node.js, Express, Next.js, Bootstrap, and MongoDB.
+I have built dynamic web applications, designed responsive user interfaces, and developed scalable back-end systems. I am always eager to enhance my skills, explore new technologies, and contribute to building impactful digital solutions.
 
 
 
