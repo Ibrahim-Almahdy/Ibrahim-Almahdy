@@ -1,11 +1,12 @@
-# Hey there, I'm [Yousef Dergham](https://yousefdergham.vercel.app/) 👋
+# Hey there, I'm [Ibrahim Almahdy](https://ibrahimalmahdy.vercel.app/) 👋
 
-**Full-stack Web Developer · CS Student · Coffee Lover ☕**
+💼Software Engineer
+**MREN Full-Stack Developer
 
-💼 **Current:** Software Engineer at [Almadrsa](https://almdrasa.com)
+ 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ibrahimalmahdy&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ## 🚀 About Me
