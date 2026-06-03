@@ -1,7 +1,7 @@
 # Hey there, I'm [Ibrahim Almahdy](https://ibrahimalmahdy.vercel.app/) 👋
 
 💼Software Engineer <br/>
-  MREN Full-Stack Developer
+  Full-Stack Developer
 
 
 ## 🚀 About Me
