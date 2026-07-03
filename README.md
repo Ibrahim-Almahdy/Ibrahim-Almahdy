@@ -8,8 +8,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding" />
 
-I am a MERN Full Stack Developer skilled in HTML, CSS, JavaScript, React, TypeScript, Next.js, Bootstrap, <br/> Node.js, MongoDB, and Express.js.
-I build full-stack web applications, continuously improve my skills, <br/> and strive to contribute to impactful digital solutions.
+I am a Front-End Developer passionate about building modern and responsive web applications. I have experience with HTML, CSS, JavaScript, TypeScript, Bootstrap, and Git. Currently, I am learning Angular, React, Next.js, Node.js, Express.js, and MongoDB to become a Full-Stack Developer. I enjoy solving problems, building real-world projects, and continuously improving my skills.
 
 
 
