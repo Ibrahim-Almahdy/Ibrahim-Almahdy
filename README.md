@@ -2,7 +2,7 @@
 
 💼 Front-End Developer
  <br/>
-  📚 Learning Full-Stack Development
+  📚 Aspiring Full-Stack Developer
 
 
 ##  About Me
