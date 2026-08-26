@@ -9,7 +9,8 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding" />
 
-I am a Front-End Developer passionate about building modern and responsive web applications. I have experience with HTML, CSS, JavaScript, TypeScript, Bootstrap, and Git. Currently, I am learning Angular, React, Next.js, Node.js, Express.js, and MongoDB to become a Full-Stack Developer. I enjoy solving problems, building real-world projects, and continuously improving my skills.
+Self-driven and passionate **Software Engineer** specializing in **Front-End Development**, with a strong foundation in modern web technologies and a background as an **ITI Summer Training graduate in React**. Experienced in building responsive and user-friendly web applications using **HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind CSS, and React**. Currently expanding my skills in **Node.js, Express.js, and MongoDB**, with the goal of becoming a **Full-Stack Developer**. I am eager to join a dynamic team where I can grow my technical skills, contribute to real-world projects, and build impactful solutions that create value for users and businesses.
+
 
 
 
