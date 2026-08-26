@@ -17,7 +17,8 @@ Self-driven and passionate **Software Engineer** specializing in **Front-End Dev
 
 <br clear="right"/>
 
-## 🔧 My Tech Stack
+## Skills
+
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
