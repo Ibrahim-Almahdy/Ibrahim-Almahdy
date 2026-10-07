@@ -10,8 +10,8 @@
 <img
   align="right"
   width="380"
-  src="https://raw.githubusercontent.com/rahul-jha98/README-Resources/master/animation_500_kxa883sd.gif"
-  alt="Coding"
+  src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-README/master/assets/Developer.gif"
+  alt="Developer Coding"
 />
 
 Self-driven and passionate **Software Engineer** specializing in **Front-End Development**, with a strong foundation in modern web technologies and a background as an **ITI Summer Training graduate in React**. Experienced in building responsive and user-friendly web applications using **HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind CSS, and React**. Currently expanding my skills in **Node.js, Express.js, and MongoDB**, with the goal of becoming a **Full-Stack Developer**. I am eager to join a dynamic team where I can grow my technical skills, contribute to real-world projects, and build impactful solutions that create value for users and businesses.
