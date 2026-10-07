@@ -33,7 +33,7 @@ Self-driven and passionate **Software Engineer** specializing in **Front-End Dev
 
 ### DevOps & Tooling
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,npm,vscode,visualstudio)](https://skillicons.dev)
 
 
 
