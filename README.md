@@ -11,7 +11,24 @@
   alt="Coding"
 />
 
-Self-driven and passionate **Software Engineer** specializing in **Front-End Development**, with a strong foundation in modern web technologies and a background as an **ITI Summer Training graduate in React**. Experienced in building responsive and user-friendly web applications using **HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind CSS, and React**. Currently expanding my skills in **Node.js, Express.js, and MongoDB**, with the goal of becoming a **Full-Stack Developer**. I am eager to join a dynamic team where I can grow my technical skills, contribute to real-world projects, and build impactful solutions that create value for users and businesses.
+I'm a Software Engineer focused on building **modern, scalable, and user-friendly web applications**, with a strong focus on Frontend Development.
+
+I care about more than just making things work.
+
+I focus on:
+
+- 🎨 Modern & Responsive Frontend Development
+- ⚛️ React & Next.js Applications
+- 🧩 Clean and Maintainable Code
+- 🏗️ Scalable Frontend Architecture
+- ⚡ Performance & User Experience
+- 🔌 API Integration & Backend Communication
+- 🛠️ Developer Tools & Modern Development Workflows
+- 📱 Responsive Web Design
+
+I'm currently expanding my skills in **Node.js, Express.js, NestJS, PostgreSQL, and MongoDB** to build complete applications from frontend to backend.
+
+My goal is to become a **Full-Stack Developer** capable of building reliable, scalable, and impactful products from the ground up.
 
 
 
