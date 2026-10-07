@@ -36,7 +36,7 @@ My goal is to become a **Full-Stack Developer** capable of building reliable, sc
 
 <br clear="right"/>
 
-## 🧠 What I Work With
+## 🛠️ Tech Stack
 
 ### Frontend
 
