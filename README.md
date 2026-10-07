@@ -1,8 +1,9 @@
 # Hey there, I'm [Ibrahim Almahdy](https://ibrahimalmahdy.vercel.app/) 👋
 
-💼 Front-End Developer
- <br/>
-  📚 Aspiring Full-Stack Developer
+Frontend Developer
+React ⚛ Next.js ⚛ TypeScript
+Building Modern Web Applications
+Aspiring Full-Stack Developer
 
 
 ##  About Me
