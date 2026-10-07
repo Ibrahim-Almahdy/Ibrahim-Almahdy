@@ -7,7 +7,12 @@
 
 ##  About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding" />
+<img
+  align="right"
+  width="380"
+  src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif"
+  alt="Coding"
+/>
 
 Self-driven and passionate **Software Engineer** specializing in **Front-End Development**, with a strong foundation in modern web technologies and a background as an **ITI Summer Training graduate in React**. Experienced in building responsive and user-friendly web applications using **HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind CSS, and React**. Currently expanding my skills in **Node.js, Express.js, and MongoDB**, with the goal of becoming a **Full-Stack Developer**. I am eager to join a dynamic team where I can grow my technical skills, contribute to real-world projects, and build impactful solutions that create value for users and businesses.
 
