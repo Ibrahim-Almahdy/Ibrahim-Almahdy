@@ -44,7 +44,7 @@ My goal is to become a **Full-Stack Developer** capable of building reliable, sc
 
 ### Backend & APIs
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 ### Database
 
