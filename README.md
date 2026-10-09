@@ -52,7 +52,7 @@ My goal is to become a **Full-Stack Developer** capable of building reliable, sc
 
 ### DevOps & Tooling
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,npm,vscode,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vercel,npm,vscode,visualstudio)](https://skillicons.dev)
 
 
 
