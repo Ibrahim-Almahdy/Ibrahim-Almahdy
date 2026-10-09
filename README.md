@@ -26,7 +26,7 @@ I focus on:
 - 🛠️ Developer Tools & Modern Development Workflows
 - 📱 Responsive Web Design
 
-I'm currently expanding my skills in **Node.js, Express.js, NestJS, PostgreSQL, and MongoDB** to build complete applications from frontend to backend.
+I'm currently expanding my skills in **Node.js, Express.js, PostgreSQL, and MongoDB** to build complete applications from frontend to backend.
 
 My goal is to become a **Full-Stack Developer** capable of building reliable, scalable, and impactful products from the ground up.
 
