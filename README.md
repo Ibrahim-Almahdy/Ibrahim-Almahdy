@@ -40,7 +40,7 @@ My goal is to become a **Full-Stack Developer** capable of building reliable, sc
 
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,bootstrap,tailwind,react,nextjs,ts,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,tailwind,react,nextjs,ts,vite)](https://skillicons.dev)
 
 ### Backend & APIs
 
